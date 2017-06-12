@@ -3,11 +3,11 @@ a = [
     id: 1,
     name: 'foo'
   },
-  { 
+  {
     id: 3,
     name: 'bar'
   },
-  { 
+  {
     id: 2,
     name: 'baz'
   }
